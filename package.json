@@ -1,0 +1,19 @@
+{
+  "name": "19210240078",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.6.0",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "memorize-decorator": "^0.2.2"
+  }
+}
